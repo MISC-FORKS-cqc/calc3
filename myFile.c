@@ -1,4 +1,7 @@
-"This is a stash test" this line will be a conflict
+"This is a stash test"
 "add additional line" 
-"new line added"  this line will be a conflict
-new additional line
+"new line added"  
+
+This is the conflict
+
+new changes
